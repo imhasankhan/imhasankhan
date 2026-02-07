@@ -1,74 +1,82 @@
-# Muhammad Hasan Khan
+# Muhammad Hasan Khan  
+### Electrical & Automation Engineer
 
-Automation & SCADA Engineer with hands-on experience in industrial automation,
-PLC systems, and SCADA design, currently pursuing an M.Sc. in Electrical
+Electrical & Automation Engineer with hands-on experience in industrial automation,
+PLC systems, and SCADA engineering, currently pursuing an M.Sc. in Electrical
 Engineering and Information Technology (Automation) in Germany.
 
-I have worked on live industrial systems, combining control engineering,
-electronics, and software to build reliable, maintainable, and operator-friendly
-solutions.
+I have worked on live industrial systems where reliability, safety, and
+maintainability are critical. My experience spans industrial automation,
+power systems, embedded electronics, and engineering-focused software tools,
+with a strong emphasis on practical implementation rather than theoretical
+demonstrations.
 
 ---
 
 ## About Me
-- M.Sc. Electrical Engineering & Information Technology (Automation), Hochschule Darmstadt
-- Background in Electrical Engineering with strong industrial exposure
-- Experience with PLCs, SCADA systems, embedded electronics, and system testing
-- Comfortable working with live production systems and industrial constraints
+
+- M.Sc. Electrical Engineering & Information Technology (Automation), Hochschule Darmstadt, Germany  
+- Bachelor’s degree in Electrical Engineering  
+- Strong background in industrial automation and power systems  
+- Experience working with live production systems and industrial constraints  
+- Comfortable bridging hardware, control engineering, and software
 
 ---
 
 ## Core Technical Skills
 
 ### PLC & SCADA
-- Siemens S7 PLC programming
-- Siemens WinCC SCADA engineering
-- SIMATIC STEP 7 / TIA Portal
-- Alarm and trend engineering
-- Tag management and system validation
+- Siemens S7 PLC programming  
+- Siemens WinCC SCADA engineering  
+- SIMATIC STEP 7 / TIA Portal  
+- Alarm handling, trends, and HMI design  
+- Tag management and live system validation  
 
-### Embedded & Electronics
-- Microcontrollers: PIC32, STM
-- PCB design and schematic development (KiCad, Fusion)
-- Circuit simulation (LTspice)
-- SMD soldering and hardware testing
+### Embedded Systems & Electronics
+- Microcontrollers: PIC32, STM, ESP8266 (NodeMCU)  
+- PCB and schematic design (KiCad, Autodesk Fusion)  
+- Circuit simulation (LTspice)  
+- Hardware prototyping and SMD soldering  
 
-### Software & Analysis
-- MATLAB / Simulink
-- Python
-- C++
-- Data analysis and system modeling
+### Software & Engineering Analysis
+- MATLAB / Simulink  
+- Python  
+- C++  
+- Engineering data analysis and system modeling  
 
-### Enterprise & Tools
-- Oracle ERP (Maintenance Management)
-- Technical documentation and SOP development
+### Enterprise & Engineering Tools
+- Oracle ERP (Maintenance Management Module)  
+- Technical documentation, SOPs, and feasibility reports  
 
 ---
 
 ## Professional Experience
 
-**Working Student – Shaft Turbomachinery Solutions Europe (Germany)**  
-- Development of an electronic device for measuring and reducing shaft currents  
+### Working Student – Shaft Turbomachinery Solutions Europe (Germany)
+- Development of an electronic measurement device for shaft current detection
+  and mitigation  
 - Embedded system research using PIC32 and STM microcontrollers  
-- PCB design, simulation, and testing  
+- PCB simulation, design, and validation  
 - Hardware prototyping and SMD soldering  
+- Testing and refinement of electronic measurement solutions  
 
-**Assistant Manager – International Steels Limited (Pakistan)**  
-- PLC programming and modification (Siemens S7)  
-- SCADA development using Siemens WinCC and ABB Compact HMI  
+### Assistant Manager – International Steels Limited (Pakistan)
+- PLC programming and modification using Siemens S7  
+- SCADA development and maintenance using Siemens WinCC and ABB Compact HMI  
 - Predictive, preventive, and breakdown maintenance of industrial plants  
-- Tag management, alarms, trends, and live system testing  
-- Technical documentation, SOPs, and feasibility reports  
+- Alarm configuration, trends, and live system testing  
+- Technical documentation, SOP development, and feasibility reporting  
+- Hands-on experience with Oracle ERP (Maintenance Management Module)  
 
 ---
 
 ## Featured Projects
 
 ### SCADA Design for Hydrogen & Oxygen Plant (Siemens WinCC)
-Redesign and implementation of a SCADA system for a Hydrogen and Oxygen production
-plant using Siemens WinCC. The project covered end-to-end SCADA engineering,
-including tag management, alarm handling, trend visualization, HMI graphics design,
-and system testing connected to a live PLC environment.
+Applied engineering project involving the redesign and implementation of a SCADA
+system for a Hydrogen and Oxygen production plant. The work covered end-to-end
+SCADA engineering, including tag management, alarm handling, trend visualization,
+HMI graphics design, and testing on a live PLC-connected system.
 
 ➡️ Repository:  
 https://github.com/imhasankhan/scada-hydrogen-oxygen-plant-wincc
@@ -76,17 +84,16 @@ https://github.com/imhasankhan/scada-hydrogen-oxygen-plant-wincc
 ---
 
 ### Custom UI for 2D/3D Laser Sensor – Keyence LJ-X8400
-Portfolio project demonstrating a custom industrial user interface for the Keyence
-LJ-X8400 laser profiler. The system replicates and extends core sensor software
-functionality with real-time visualization and measurement features.
+Engineering-focused industrial UI project for the Keyence LJ-X8400 laser profiler.
+The system replicates and extends core sensor software functionality with real-time
+visualization and measurement features.
 
-Key aspects:
-- Full-stack architecture using FastAPI (backend) and React (frontend)
-- Real-time 2D profile streaming via WebSocket
-- Interactive measurement tools (point-to-point, vertical, horizontal)
-- 3D surface reconstruction by stitching multiple 2D scans
-- Designed for flexible and robotic measurement setups
-- Proprietary Keyence SDK excluded (portfolio version)
+- Full-stack architecture using FastAPI (backend) and React (frontend)  
+- Real-time 2D profile streaming via WebSocket  
+- Interactive measurement tools (point-to-point, vertical, horizontal)  
+- 3D surface reconstruction by stitching multiple 2D scans  
+- Designed for flexible and robotic measurement setups  
+- Proprietary Keyence SDK excluded (portfolio version)  
 
 ➡️ Repository:  
 https://github.com/imhasankhan/keyence-lj-x8400-custom-ui-hardware-integration
@@ -94,10 +101,10 @@ https://github.com/imhasankhan/keyence-lj-x8400-custom-ui-hardware-integration
 ---
 
 ### DNN-Based Power System State Estimation (MATLAB)
-Data-driven power system state estimation project using Deep Neural Networks (DNN).
-The workflow includes MATLAB-based dataset generation, multi-level Gaussian noise
-modeling, DNN training, and evaluation on the IEEE 14-bus system. The work was later
-validated through an IEEE conference publication.
+Applied power system engineering project using Deep Neural Networks for state
+estimation. The workflow includes MATLAB-based dataset generation, multi-level
+Gaussian noise modeling, DNN training, and evaluation on the IEEE 14-bus system.
+The work was later validated through an IEEE conference publication.
 
 ➡️ Repository:  
 https://github.com/imhasankhan/dnn-based-power-system-state-estimation
@@ -105,10 +112,9 @@ https://github.com/imhasankhan/dnn-based-power-system-state-estimation
 ---
 
 ### Transmission Line Analysis Using MATLAB GUI
-Portfolio case-study describing a MATLAB GUI–based engineering tool for analyzing
-overhead transmission line geometries. The project focused on studying the impact of
-electrical and mechanical parameters on transmission efficiency and loss behavior
-through interactive analysis.
+Portfolio case study describing a MATLAB GUI–based engineering tool for analyzing
+overhead transmission line geometries. The project focused on evaluating the impact
+of electrical and mechanical parameters on transmission efficiency and loss behavior.
 
 ➡️ Repository:  
 https://github.com/imhasankhan/transmission-line-analysis-matlab-gui
@@ -124,25 +130,25 @@ smart protection concepts.
 ➡️ Repository:  
 https://github.com/imhasankhan/smart-protection-relay-nodemcu
 
-
 ---
 
 ## What You’ll Find on My GitHub
-- Industrial automation and SCADA projects
-- PLC and control-system documentation
-- Embedded electronics and PCB-based projects
-- Engineering-focused portfolios (not toy examples)
+- Industrial automation and SCADA engineering projects  
+- PLC and control-system documentation  
+- Embedded electronics and PCB-based work  
+- Engineering-focused portfolios (applied systems, not toy examples)  
 
 ---
 
 ## Languages
-- English: Fluent
-- German: A2
-- Hindi: Fluent
-- Urdu: Native
+- English: Fluent  
+- German: A2  
+- Hindi: Fluent  
+- Urdu: Native  
 
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/muhammadhasankhan2001/
+- Email: muhammadhasan.khan@stud.h-da.de
+- LinkedIn: https://www.linkedin.com/in/muhammadhasankhan2001  
 - GitHub: https://github.com/imhasankhan
