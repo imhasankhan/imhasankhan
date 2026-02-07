@@ -65,21 +65,65 @@ solutions.
 ## Featured Projects
 
 ### SCADA Design for Hydrogen & Oxygen Plant (Siemens WinCC)
-Complete redesign and implementation of a SCADA system for a Hydrogen and Oxygen
-production plant, including data collection, tag management, alarms, trends,
-graphics design, and testing on a live PLC system.
+Redesign and implementation of a SCADA system for a Hydrogen and Oxygen production
+plant using Siemens WinCC. The project covered end-to-end SCADA engineering,
+including tag management, alarm handling, trend visualization, HMI graphics design,
+and system testing connected to a live PLC environment.
 
 ➡️ Repository:  
 https://github.com/imhasankhan/scada-hydrogen-oxygen-plant-wincc
 
 ---
 
-### Custom UI for 2D Laser Sensor (Keyence LJ-X8400)
-- Full-stack system using FastAPI (backend) and React (frontend)
-- Real-time 2D scan visualization and data export
-- Interactive measurement tools
-- 3D reconstruction by stitching multiple 2D scans
-- Designed for robotic and flexible measurement setups
+### Custom UI for 2D/3D Laser Sensor – Keyence LJ-X8400
+Portfolio project demonstrating a custom industrial user interface for the Keyence
+LJ-X8400 laser profiler. The system replicates and extends core sensor software
+functionality with real-time visualization and measurement features.
+
+Key aspects:
+- Full-stack architecture using FastAPI (backend) and React (frontend)
+- Real-time 2D profile streaming via WebSocket
+- Interactive measurement tools (point-to-point, vertical, horizontal)
+- 3D surface reconstruction by stitching multiple 2D scans
+- Designed for flexible and robotic measurement setups
+- Proprietary Keyence SDK excluded (portfolio version)
+
+➡️ Repository:  
+https://github.com/imhasankhan/keyence-lj-x8400-custom-ui-hardware-integration
+
+---
+
+### DNN-Based Power System State Estimation (MATLAB)
+Data-driven power system state estimation project using Deep Neural Networks (DNN).
+The workflow includes MATLAB-based dataset generation, multi-level Gaussian noise
+modeling, DNN training, and evaluation on the IEEE 14-bus system. The work was later
+validated through an IEEE conference publication.
+
+➡️ Repository:  
+https://github.com/imhasankhan/dnn-based-power-system-state-estimation
+
+---
+
+### Transmission Line Analysis Using MATLAB GUI
+Portfolio case-study describing a MATLAB GUI–based engineering tool for analyzing
+overhead transmission line geometries. The project focused on studying the impact of
+electrical and mechanical parameters on transmission efficiency and loss behavior
+through interactive analysis.
+
+➡️ Repository:  
+https://github.com/imhasankhan/transmission-line-analysis-matlab-gui
+
+---
+
+### Smart Protection Relay Using NodeMCU (ESP8266)
+System-level protection relay concept integrating ETAP-based fault analysis with an
+ESP8266 (NodeMCU) microcontroller. The project demonstrates rule-based fault
+classification (SLG, LLG, LL, and three-phase faults) and web-based monitoring for
+smart protection concepts.
+
+➡️ Repository:  
+https://github.com/imhasankhan/smart-protection-relay-nodemcu
+
 
 ---
 
